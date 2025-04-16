@@ -10,6 +10,9 @@ This project features a Power BI dashboard built using data from a survey conduc
 
 - README.md: Project documentation (this file) - https://github.com/sobiakarim/Data-Professionals-Survey---Power-BI/blob/main/README.md
 
+## Dashboard Overview
+![Data Professional Survey Dashboard](Data Professional Survey.png)
+
 ## Objectives
 - Analyze the demographics and roles of data professionals  
 - Explore salary distribution across various job titles  

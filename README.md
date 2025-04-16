@@ -18,15 +18,15 @@ This project features a Power BI dashboard built using data from a survey conduc
 - Highlight preferred programming languages by job roles
 
 ## Dashboard Highlights
-- ** Country of Participants**: Majority from the United States and India  
-- ** Total Participants**: 630  
-- ** Average Age**: 29.87 years  
-- ** Average Salary by Job Title**: Highest for Data Scientists  
-- ** Difficulty Entering Data Field**: Majority found it neither easy nor difficult  
-- ** Satisfaction Scores**:  
+- ** Country of Participants: Majority from the United States and India  
+- ** Total Participants: 630  
+- ** Average Age: 29.87 years  
+- ** Average Salary by Job Title: Highest for Data Scientists  
+- ** Difficulty Entering Data Field: Majority found it neither easy nor difficult  
+- **Satisfaction Scores**:  
   - Salary Satisfaction: 4.27 / 10  
   - Work-Life Balance: 5.74 / 10  
-- ** Favorite Programming Languages**: Python leads across job roles
+-  Favorite Programming Languages: Python leads across job roles
 
 ## Dataset Information
 - Source: Twitter Survey
